@@ -1,15 +1,25 @@
-# SimpleBot
+# 🤖 SimpleBot
 
 A minimalist chatbot built with HTML, JavaScript and CSS — clean, lightweight, and ready to use out of the box.
+
+## 📸 Preview
+
+SimpleBot lives as a **chat bubble** in the corner of the page. Click it to expand the chat window.
+
+| Bubble | Chat window |
+|:---:|:---:|
+| ![Bubble](screenshots/bubble.webp) | ![Chat](screenshots/chat.webp) |
+
+Once opened, it greets the user and offers a recommended action: **Receive notifications** — which triggers the email flow via EmailJS.
 
 ---
 
 ## ✨ Features
 
-- Simple and clean chat interface
-- Email sending via [EmailJS](https://www.emailjs.com/)
-- Minimalist design with pure HTML, CSS and JavaScript
-- Zero dependencies — just open and run
+- 💬 Simple and clean chat interface
+- 📧 Email sending via [EmailJS](https://www.emailjs.com/) — no backend required
+- 🎨 Minimalist design with pure HTML, CSS and JavaScript
+- ⚡ Zero dependencies — just open and run
 
 ---
 
@@ -18,13 +28,13 @@ A minimalist chatbot built with HTML, JavaScript and CSS — clean, lightweight,
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/emylattuada/simplebot.git
+git clone https://github.com/your-username/simplebot.git
 cd simplebot
 ```
 
 ### 2. Set up EmailJS
 
-SimpleBot uses [EmailJS](https://www.emailjs.com/) to send emails
+SimpleBot uses [EmailJS](https://www.emailjs.com/) to send emails directly from the browser — no server needed.
 
 #### Steps:
 
@@ -89,7 +99,7 @@ simplebot/
     ├── logo.png
     └── send.png
 ```
- 
+
 ---
 
 ## 🛠️ Built With
@@ -97,7 +107,7 @@ simplebot/
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla)**
-- **[EmailJS](https://www.emailjs.com/)**
+- **[EmailJS](https://www.emailjs.com/)** — client-side email sending
 
 ---
 
