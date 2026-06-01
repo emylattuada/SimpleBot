@@ -1,8 +1,8 @@
-# 🤖 SimpleBot
+# SimpleBot
 
 A minimalist chatbot built with HTML, JavaScript and CSS — clean, lightweight, and ready to use out of the box.
 
-## 📸 Preview
+## Preview
 
 SimpleBot lives as a **chat bubble** in the corner of the page. Click it to expand the chat window.
 
@@ -14,21 +14,21 @@ Once opened, it greets the user and offers a recommended action: **Receive notif
 
 ---
 
-## ✨ Features
+## Features
 
-- 💬 Simple and clean chat interface
-- 📧 Email sending via [EmailJS](https://www.emailjs.com/) — no backend required
-- 🎨 Minimalist design with pure HTML, CSS and JavaScript
-- ⚡ Zero dependencies — just open and run
+- Simple and clean chat interface
+- Email sending via [EmailJS](https://www.emailjs.com/) — no backend required
+- Minimalist design with pure HTML, CSS and JavaScript
+- Zero dependencies
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/simplebot.git
+git clone https://github.com/emylattuada/simplebot.git
 cd simplebot
 ```
 
@@ -87,7 +87,7 @@ start index.html
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 simplebot/
@@ -102,15 +102,15 @@ simplebot/
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla)**
-- **[EmailJS](https://www.emailjs.com/)** — client-side email sending
+- **[EmailJS](https://www.emailjs.com/)**
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
